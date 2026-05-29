@@ -92,4 +92,4 @@ Result is displayed on web page
 
 👨‍💻 Author
 
-Developed by: Shruti Chavan
+Developed by: Vaibhav Giranje
